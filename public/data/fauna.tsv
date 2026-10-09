@@ -1,0 +1,98 @@
+id	name_portuguese	name_bororo	scientific_name	category	classification_bororo	created_at	info	pic_link
+1	Onça pintada	Adugo	Panthera onca	Feilídeo	Barege boemoriae	2025-05-26 21:12:57.537 +0200		/fauna/1.webp
+2	Onça parda	Aigo	Puma concolor	Feilídeo	Barege boemoriae	2025-05-26 21:15:33.721 +0200		/fauna/2.webp
+3	Gato mourisco / Jaguarundi	Aimearewy	Herpailurus yagouaroundi	Feilídeo	Barege boemoriae	2025-05-26 21:15:33.742 +0200		/fauna/3.webp
+4	Barege boemoriae	Aipoburewy	Leopardus pardalis	Feilídeo	Barege boemoriae	2025-05-26 21:15:33.758 +0200		/fauna/4.webp
+5	Mão-pelada	Ierarae	Procionídeos		Barege boemoriae	2025-05-26 21:15:33.773 +0200		/fauna/5.webp
+6	Irara / Papa mel	Ipocerewy	Eira barbara	Mustelídeos	Barege boemoriae	2025-05-26 21:15:33.937 +0200		/fauna/6.webp
+7	Graxaim-do-mato / Cachorro-do-mato / Lobinho	Okwa	Cerdocyon thous	Canídeos	Barege boemoriae	2025-05-26 21:24:02.283 +0200		/fauna/7.webp
+8	Lobo Guará	Rie	Chrysocyon brachyurus / Canis jubatus	Canídeos	Barege boemoriae	2025-05-26 21:24:02.304 +0200		/fauna/8.webp
+9	Cariacu / Veado Galheiro	Atubo	Odocoileus virginianus		Barege Kurirewyge	2025-05-26 21:24:02.323 +0200		/fauna/9.webp
+10	Anta	Ki	Tapirus terrestris	Tapirídeos	Barege Kurirewyge	2025-05-26 21:24:02.477 +0200		/fauna/10.webp
+11	Veado-mão-curta  / Veado Bororó	Pobogo	Mazama nana	Cervídeos	Barege Kurirewyge	2025-05-26 21:24:02.492 +0200		/fauna/11.webp
+12	Tamanduá-bandeira	Buke	Myrmecophaga tridactyla	Mirmecofagídeos	Barege Kurirewyge	2025-05-26 21:24:02.509 +0200		/fauna/12.webp
+13	Caititu	Jui	Dicotyles tajacu	Taiaçuídeos	Barege Kurirewyge	2025-05-26 21:26:59.349 +0200		/fauna/13.webp
+14	Queixada	Jugo	Tayassu pecari	Taiaçuídeos	Barege Kurirewyge	2025-05-26 21:26:59.369 +0200		/fauna/14.webp
+15	Tatupeba	Bakodorirewy	Euphractus sexcinctus	Clamiforídeos	Barege Borewyge	2025-05-26 21:26:59.384 +0200		/fauna/15.webp
+16	Tatu-canastra	Bokodori	Priodontes maximus	Clamiforídeos	Barege Borewyge	2025-05-26 21:26:59.401 +0200		/fauna/16.webp
+17	Tatu-bola	Enokuri	Tolypeutes matacus	Clamiforídeos	Barege Borewyge	2025-05-26 21:26:59.416 +0200		/fauna/17.webp
+18	Jabuti	Jerigigi	Chelonoidis carbonarius	Testudinidae	Barege Borewyge	2025-05-26 21:26:59.433 +0200		/fauna/18.webp
+19	Tatu-liso	Jerego	Dasypus novemcinctus	Dasipodídeos	Barege Borewyge	2025-05-26 21:30:13.852 +0200		/fauna/19.webp
+20	Tatu-galinha	Reá	Dasypus novemcinctus		Barege Borewyge	2025-05-26 21:30:13.871 +0200		/fauna/20.webp
+21	Quati	Kudobo	Nasua narica	Procyonidae	Barege Akururewyge	2025-05-26 21:30:13.889 +0200		/fauna/21.webp
+22	Bugio preto / Guariba-preto	Pai Corewy	Alouatta caraya	Atelidae	Barege Akururewyge	2025-05-26 21:30:13.908 +0200		/fauna/22.webp
+23	Macaco	Juko		Cebídeos	Barege Akururewyge	2025-05-26 21:30:13.924 +0200		/fauna/placeholder-animal.svg
+24	Tamanduá-mirim / Mixila	Apogo	Tamandua tetradactyla	Myrmecophagidae	Barege Akururewyge	2025-05-26 21:30:13.942 +0200		/fauna/24.webp
+25	Gambá	Aka	Didelphis marsupialis	Didelfiídeos	Barege Akururewyge	2025-05-26 21:32:35.565 +0200		/fauna/25.webp
+26	Serelepe / Caxinguelê	Kodokodo		Sciuridae	Barege Akururewyge	2025-05-26 21:32:35.585 +0200		/fauna/26.webp
+27	Ouriço	Iwe	Coendou prehensilis	Erinaceidae	Barege Akururewyge	2025-05-26 21:32:09.907 +0200		/fauna/27.webp
+28	Iguana / Sinimbu	Irui	Iguana iguana	Iguanidae	Barege pobo tadawyge	2025-05-26 21:32:36.288 +0200		/fauna/28.webp
+29	Capivara	Akiwa	Hydrochoerus hydrochaeris	Caviidae	Barege pobo tadawyge	2025-05-26 21:32:36.304 +0200		/fauna/29.webp
+30		Atomoio			Barege pobo tadawyge	2025-05-26 21:32:36.320 +0200		/fauna/placeholder-animal.svg
+31	Jacaré	Uwai	Caiman yacare	Alligatoridae	Barege pobo tadawyge	2025-05-26 21:32:36.337 +0200		/fauna/31.webp
+32	Lambari	Meto		Astyanax (gen.)		2025-05-26 21:36:47.392 +0200		/fauna/32.webp
+33		Baigabe			Barege pobo tadawyge	2025-05-26 21:36:47.411 +0200		/fauna/placeholder-animal.svg
+34	Boto	Jakorewy	Sotalia fluviatilis	Delphinidae	Barege pobo tadawyge	2025-05-26 21:36:47.429 +0200		/fauna/34.webp
+35	Paca	Apu	Cuniculus paca	Cuniculidae	Barege kugure	2025-05-26 21:36:47.445 +0200		/fauna/35.webp
+36	Teiú	Tuwogy	Salvator merianae	Teiidae	Barege kugure	2025-05-26 21:39:06.504 +0200		/fauna/36.webp
+37	Lebre / Tapiti	Amo	Sylvilagus brasiliensis		Barege kugure	2025-05-26 21:39:06.528 +0200		/fauna/37.webp
+38	Cutía	Mea	Dasyprocta punctata	Dasyproctidae	Barege kugure	2025-05-26 21:39:06.544 +0200		/fauna/38.webp
+39	Preá	Kurugo	Cavia aperea	Caviidae	Barege kugure	2025-05-26 21:39:06.560 +0200		/fauna/39.webp
+40	Coruja do campo / Coruja-buraqueira	Tagogo	Athene cunicularia	Strigidae	Kiege Boemoriae	2025-05-26 21:39:37.255 +0200		/fauna/40.webp
+41	Acauã	Makao	Herpetotheres cachinnans	Falconidae	Kiege Boemoriae	2025-05-26 21:39:37.272 +0200		/fauna/41.webp
+42	Gavião real / Harpia	Aroeeceba	Harpia harpyja	Accipitridae	Kiege Boemoriae	2025-05-26 21:39:37.290 +0200		/fauna/42.webp
+43	Murucututu-de-barriga-amarela	Kugu	Pulsatrix koeniswaldiana	Strigidae	Kiege Boemoriae	2025-05-26 21:39:37.307 +0200		/fauna/43.webp
+44	Gavião carcaraí / Carrapateiro	Kuruguga	Milvago chimachima	Falconidae	Kiege Boemoriae	2025-05-26 21:41:27.016 +0200		/fauna/44.webp
+45	Pinhé	Pia			Kiege buregi toiburewyge	2025-05-26 21:41:27.031 +0200		/fauna/placeholder-animal.svg
+46	Gavião-do-pé-amarelo / Gavião-carijó	Kuruga bure paru ekurewy	Rupornis magnirostris	Accipitridae	Kiege buregi toiburewyge	2025-05-26 21:41:27.048 +0200		/fauna/46.webp
+47	Gavião Caracará / Pinhé	Kaga	Caracara plancus	Falconidae	Kiege buregi toiburewyge	2025-05-26 21:41:27.064 +0200		/fauna/47.webp
+48	Gavião Claro	Torowa			Kiege buregi toiburewyge	2025-05-26 21:41:27.079 +0200		/fauna/placeholder-animal.svg
+49	Gavião ximango	Kuruga bewerewy	Milvago chimango	Falconidae	Kiege buregi toiburewyge	2025-05-26 21:45:10.232 +0200		/fauna/49.webp
+50	Coruja preta	Kugu corewy	Strix huhula	Strigidae	Kiege buregi toiburewyge	2025-05-26 21:45:10.247 +0200		/fauna/50.webp
+51	Corujão / Mocho	Kaikai	Bubo virginianus	Strigidae	Kiege buregi toiburewyge	2025-05-26 21:45:10.263 +0200		/fauna/51.webp
+52	Urubu rei	Bai	Sarcoramphus papa	Sarcosamphidae	Kiege buregi toiburewyge	2025-05-26 21:46:21.782 +0200		/fauna/52.webp
+53		Kuruga je paru kujagurewy			Kiege buregi toiburewyge	2025-05-26 21:46:44.101 +0200		/fauna/placeholder-animal.svg
+54	Urubu cabeça preta	Poburewy	Coragyps atratus	Cathartidae	Kiege buregi toiburewyge	2025-05-26 21:47:09.380 +0200		/fauna/54.webp
+55	Urubu da cabeça vermelha	Ciwaje	Cathartes aura	Cathartidae	Kiege buregi toiburewyge	2025-05-26 21:49:49.151 +0200		/fauna/55.webp
+56	Arara-azul-grande	Kudoro	Anodorhynchus hyacinthinus	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:49:49.214 +0200		/fauna/56.webp
+57	Araracanga (arara vermelha)	Nabure	Ara macao	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:49:49.231 +0200		/fauna/57.webp
+58	Arara-canindé	Kuido	Ara ararauna	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:49:49.245 +0200		/fauna/58.webp
+59	Curica (papagaio)	Korao	Amazona amazonica	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:49:49.262 +0200		/fauna/59.webp
+60	Periquito-verde	Kido	Brotogeris tirica	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:50:36.269 +0200		/fauna/60.webp
+61	Jandaia-coquinho (periquito-rei / periquito-estrela)	Ore	Eupsittula aurea	Psittacidae	Kiege oto toiborewyge	2025-05-26 21:51:24.495 +0200		/fauna/61.webp
+62	Garça real	Bace agarewy	Ardea alba	Ardeidae	Kiege pobo pobo tadawyge	2025-05-26 21:51:24.510 +0200		/fauna/62.webp
+63	Garça-branca-pequena	Bace kuorewy	Egretta thula	Ardeidae	Kiege pobo pobo tadawyge	2025-05-26 21:52:42.444 +0200		/fauna/63.webp
+64	Garça-azul	Bace kaworyrewy	Egretta caerulea	Ardeidae	Kiege pobo pobo tadawyge	2025-05-26 21:52:42.461 +0200		/fauna/64.webp
+65	Aiaiá (colhereiro-americano)	Bace ao kororogodyrewy	Platalea ajaja	Threskiornithidae	Kiege pobo pobo tadawyge	2025-05-26 21:52:42.616 +0200		/fauna/65.webp
+66	Cabeça-seca	Bace auragodyrewy	Cabeça-seca	Ciconiidae	Kiege pobo pobo tadawyge	2025-05-26 21:53:46.824 +0200		/fauna/66.webp
+67	Jaburu (Tuiuiu)	Bace kogyio	Jabiru mycteria	Ciconiidae	Kiege pobo pobo tadawyge	2025-05-26 21:53:46.842 +0200		/fauna/67.webp
+68	Maguari	Bace mikurewy	Ciconia maguari	Ciconiidae	Kiege pobo pobo tadawyge	2025-05-26 21:53:46.858 +0200		/fauna/68.webp
+69	Cegonha (?)	Parira		Ciconiidae	Kiege pobo pobo tadawyge	2025-05-26 21:54:48.132 +0200		/fauna/69.webp
+70	Martim Pescador	Kadagare		Alcedinidae	Kiege pobo pobo tadawyge	2025-05-26 21:54:48.153 +0200		/fauna/70.webp
+71	Anhuma	Tamigi	Anhima cornuta	Anhimidae	Kiege pobo pobo tadawyge	2025-05-26 21:54:48.172 +0200		/fauna/71.webp
+72	Carão	Karao	Aramus guarauna	Aramidae	Kiege pobo pobo tadawyge	2025-05-26 21:55:46.450 +0200		/fauna/72.webp
+73	Jaçanã	Pegepege	Jacana jacana	Jacanidae	Kiege pobo pobo tadawyge	2025-05-26 21:55:46.470 +0200		/fauna/73.webp
+74	Saracura	Kuocaga		Rallidae	Kiege pobo pobo tadawyge	2025-05-26 21:55:46.637 +0200		/fauna/74.webp
+75	Socó-dorminhoco	Kudo	Nycticorax nycticorax	Ardeidae	Kiege pobo pobo tadawyge	2025-05-26 21:55:46.652 +0200		/fauna/75.webp
+76		Merire		Anatidae	Kiege pobo pobo tadawyge	2025-05-26 21:57:26.607 +0200	Amazonetta brasiliensis	/fauna/76.webp
+77	Garça-da-mata	O kaworurewy			Kiege pobo pobo tadawyge	2025-05-26 21:57:26.772 +0200		/fauna/77.webp
+78	Picaparra (ipequi)	Bure puduga	Heliornis fulica	Heliornithidae	Kiege pobo pobo tadawyge	2025-05-26 21:57:26.788 +0200		/fauna/78.webp
+79	Socó-boi	Cu	Tigrisoma lineatum	Ardeidae	Kiege pobo pobo tadawyge	2025-05-26 22:00:05.105 +0200		/fauna/79.webp
+80	Marreca-cabocla	Parabara	Dendrocygna autumnalis	Anatidae	Kiege pobo pobo tadawyge	2025-05-26 22:00:05.121 +0200		/fauna/80.webp
+81	Pato-do-mato	Turubare corewy	Cairina moschata	Anatidae	Kiege pobo pobo tadawyge	2025-05-26 22:00:05.138 +0200		/fauna/81.webp
+82	Gaivota do pantanal (?)	Tawie		Laridae	Kiege kugary kejewyge	2025-05-26 22:00:05.155 +0200		/fauna/placeholder-animal.svg
+83	Mexeriqueira	Ra porepore	Vanellus cayanus	Charadriidae	Kiege kugary kejewyge	2025-05-26 22:00:38.925 +0200		/fauna/83.webp
+84		Tano			Kiege kugary kejewyge	2025-05-26 22:00:38.944 +0200		/fauna/placeholder-animal.svg
+85		Kugarure			Kiege kugary kejewyge	2025-05-26 22:00:38.961 +0200		/fauna/placeholder-animal.svg
+86		Tawie baragadyxrewy			Kiege kugary kejewyge	2025-05-26 22:00:38.977 +0200		/fauna/placeholder-animal.svg
+87	Siriema	Beo			Kiege moto kejewyge	2025-05-26 22:03:14.041 +0200		/fauna/87.webp
+88		Parigogo			Kiege moto kejewyge	2025-05-26 22:03:14.059 +0200		/fauna/placeholder-animal.svg
+89		Monoko			Kiege moto kejewyge	2025-05-26 22:03:14.076 +0200		/fauna/placeholder-animal.svg
+90	Inhmabu-Xororó	Riwodo	Crypturellus parvirostris	Tinamidae	Kiege moto kejewyge	2025-05-26 22:03:14.092 +0200		/fauna/90.webp
+91	Perdiz	Parikiogodo	Rhynchotus rufescens	Tinamidae	Kiege moto kejewyge	2025-05-26 22:03:14.107 +0200		/fauna/91.webp
+92	Ema	Pari	Rhea americana	Rheidae	Kiege moto kejewyge	2025-05-26 22:03:14.123 +0200		/fauna/92.webp
+93	João-Bobo	Jokorogo	Nystalus chacuru		Kiege moto kejewyge	2025-05-26 22:03:14.141 +0200		/fauna/93.webp
+94	Mamangaba	Penogogo	Bombus			2025-05-26 22:05:03.264 +0200		/fauna/94.webp
+95	Abelha benjoí	Gigo				2025-05-26 22:05:03.417 +0200		/fauna/95.webp
+96	Periquito-d'asa-azul / tuim-de-asa-azul / periquito vassourinha	Kidoe etumana	Forpus xanthopterygius			2025-05-26 22:05:03.433 +0200		/fauna/96.webp
+97	Abelha borá	Kidoguroe	Tetragona clavipes			2025-05-26 22:05:03.449 +0200		/fauna/97.webp

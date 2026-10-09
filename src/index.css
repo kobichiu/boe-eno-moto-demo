@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+
+/* Custom breakpoint for very wide screens (iMac) */
+@media (min-width: 2200px) {
+  .custom-wide-6-cols {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
