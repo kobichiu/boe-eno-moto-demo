@@ -45,7 +45,7 @@ const Dictionary = () => {
                 >
                     <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl text-center font-bold text-white"
                         style={{fontFamily: 'Cairo Play'}}>
-                        Dicionário Bororo-Português-Bororo
+                        Dicionário Bororo-Português
                     </h1>
                     <h3 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-bold text-white"
                         style={{fontFamily: 'Cairo Play'}}>
