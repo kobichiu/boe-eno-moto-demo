@@ -1,4 +1,4 @@
-# Demo of Boe Eno Moto, a language resource for Bororo
+# Demo of Boe Eno Moto, a web resource for Bororo language
 
 A front-end-only demo of **Boe Eno Moto**: a searchable text corpus, a Bororo-Portuguese dictionary and a fauna vocabulary for the Bororo language, running entirely in the browser from static data files.
 
@@ -88,7 +88,7 @@ src/
 vercel.json        routing rule for the single-page app
 ```
 
-## What I have learnt
+## What I have learnt 🧗🏼‍♀️
 
 - **This was my first full-stack project**: not perfect, and the learning curve was steep. Time and patience were part of it.
 - **Tools age/ move fast, so I have to keep updating myself**: Create React App is outdated, I moved hosting this demo by Vite.
