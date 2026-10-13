@@ -7,6 +7,8 @@ A front-end-only demo of **Boe Eno Moto**: a searchable text corpus, a Bororo-Po
 
 > This repository is a student snapshot of an earlier prototype. It is not the current official site.
 
+![Home page](docs/main.png)
+
 ## Background
 
 I worked as a student web developer under the supervision of Dr. Fabrício Ferraz Gerardi, within an EU-funded project. My task was to develop the web resource for the indigenous Bororo language, Boe Eno Moto. In its original form it had several modules: a text corpus, a dictionary, a list of all word forms, an ethnobiological lexicon (animals and plants), school materials, myths, songs and videos.
@@ -55,8 +57,12 @@ Due to the reason of costs, I replaced the API and database with files in `publi
   - **KWIC (key word in context):** search selected texts and see each match with 1-8 words of context on either side.
   - **Parallel texts:** about 1,700 Bororo-Portuguese sentence pairs, with filtering.
   - **Frequency list:** the 500 most frequent words in the corpus.
+    ![Corpus page](docs/corpus.png)
 - **Dictionary:** about 4,800 entries with IPA, part of speech tags, definition, example sentences and images; autocomplete suggestions as you type, and a results page for each entry.
+  ![Dictionary page](docs/dict.png)
+![Dictionary result page](docs/dict_result.png)
 - **Fauna:** 97 animals with Portuguese, Bororo and scientific names, category and Bororo classification, and photos; accent-insensitive search (`onca` finds *Onça*).
+  ![Fauna page](docs/fauna.png)
 - **Responsive navigation** and a single-page app with direct links to every section.
 
 ### Tech Stack of this demo
