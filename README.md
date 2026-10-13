@@ -88,7 +88,7 @@ src/
 vercel.json        routing rule for the single-page app
 ```
 
-## What I have learnt
+## What I have learnt 🧗🏼‍♀️
 
 - **This was my first full-stack project**: not perfect, and the learning curve was steep. Time and patience were part of it.
 - **Tools age/ move fast, so I have to keep updating myself**: Create React App is outdated, I moved hosting this demo by Vite.
