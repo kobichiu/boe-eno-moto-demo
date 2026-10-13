@@ -1,4 +1,4 @@
-# Demo of Boe Eno Moto, a language resource for Bororo
+# Demo of Boe Eno Moto, a web resource for Bororo language
 
 A front-end-only demo of **Boe Eno Moto**: a searchable text corpus, a Bororo-Portuguese dictionary and a fauna vocabulary for the Bororo language, running entirely in the browser from static data files.
 
