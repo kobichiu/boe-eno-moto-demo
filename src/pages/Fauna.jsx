@@ -5,8 +5,7 @@ import Footer from '../components/footer/Footer.jsx';
 
 const Fauna = () => {
 
-    const [searchInput, setSearchInput] = useState("");   // what is typed in the box
-    const [searchTerm, setSearchTerm] = useState("");     // what was submitted with Enter / "Buscar"
+    const [searchInput, setSearchInput] = useState("");
     const [faunaData, setFaunaData] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -42,34 +41,14 @@ const Fauna = () => {
     const normalize = (text) =>
         text.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 
-    // faunaData always holds the full list. The search only changes which of those animals are shown.
-    const handleSearch = () => {
-        setSearchTerm(searchInput.trim());
-    };
-
-    const term = normalize(searchTerm);
+    // faunaData always holds the full list. The grid is derived from what is in the box.
+    const term = normalize(searchInput.trim());
     const visibleAnimals = term
-        ? faunaData.filter(animal =>
-            [animal.name_portuguese, animal.name_bororo, animal.scientific_name]
-                .some(field => field && normalize(field).includes(term))
+        ? faunaData.filter((animal) =>
+            [animal.name_portuguese, animal.name_bororo, animal.scientific_name, animal.category, animal.classification_bororo]
+                .some((field) => field && normalize(field).includes(term))
         )
         : faunaData;
-
-    // Handle search input change
-    const handleSearchInputChange = (e) => {
-        const value = e.target.value;
-        setSearchInput(value);
-
-        // Emptying the box (including the browser's "x" button) shows every animal again.
-        if (!value.trim()) setSearchTerm("");
-    };
-
-    // Handle Enter key press in search input
-    const handleKeyPress = (e) => {
-        if (e.key === 'Enter') {
-            handleSearch();
-        }
-    };
 
 
     // Scroll to top when component mounts
@@ -125,13 +104,11 @@ const Fauna = () => {
                             type='search'
                             placeholder='Buscar um animal'
                             value={searchInput}
-                            onChange={handleSearchInputChange}
-                            onKeyDown={handleKeyPress}
+                            onChange={(e) => setSearchInput(e.target.value)}
                             className="w-full outline-none bg-white text-gray-600 text-lg md:text-lg lg:text-xl px-4 py-2 rounded-full"
                         />
                         <button
                             type='button'
-                            onClick={handleSearch}
                             className="text-white text-lg md:text-lg lg:text-xl rounded-full px-5 py-2 transition-all duration-500"
                             style={{ backgroundColor: '#50d499' }}
                             onMouseEnter={(e) => e.target.style.backgroundColor = '#abde7a'}
@@ -170,8 +147,8 @@ const Fauna = () => {
                             {visibleAnimals.length === 0 ? (
                                 <div className="col-span-full text-center py-12">
                                     <p className="text-gray-600 text-lg">
-                                        {searchTerm
-                                            ? `Nenhum animal encontrado para "${searchTerm}".`
+                                        {searchInput.trim()
+                                            ? `Nenhum animal encontrado para "${searchInput.trim()}".`
                                             : 'No fauna data available.'}
                                     </p>
                                 </div>
